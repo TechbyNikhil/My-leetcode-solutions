@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0001-two-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
