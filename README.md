@@ -17,4 +17,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1768-merge-strings-alternately) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1071-greatest-common-divisor-of-strings) |
+## Math
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
