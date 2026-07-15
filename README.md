@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0001-two-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
