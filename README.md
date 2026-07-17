@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [0605-can-place-flowers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0605-can-place-flowers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [0238-product-of-array-except-self](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
