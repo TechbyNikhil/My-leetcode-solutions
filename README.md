@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0605-can-place-flowers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [0238-product-of-array-except-self](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0605-can-place-flowers) |
+| [0334-increasing-triplet-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0334-increasing-triplet-subsequence) |
 ## Sorting
 |  |
 | ------- |
