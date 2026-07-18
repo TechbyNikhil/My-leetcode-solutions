@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0334-increasing-triplet-subsequence) |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3312-sorted-gcd-pair-queries) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3312-sorted-gcd-pair-queries) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3312-sorted-gcd-pair-queries) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greedy
 |  |
 | ------- |
