@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3312-sorted-gcd-pair-queries) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [0283-move-zeroes](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0283-move-zeroes) |
+| [0011-container-with-most-water](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0443-string-compression) |
 | [0283-move-zeroes](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0392-is-subsequence) |
+| [0011-container-with-most-water](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0011-container-with-most-water) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0605-can-place-flowers) |
 | [0334-increasing-triplet-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0334-increasing-triplet-subsequence) |
+| [0011-container-with-most-water](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0011-container-with-most-water) |
 ## Sorting
 |  |
 | ------- |
