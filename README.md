@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0283-move-zeroes) |
 | [0011-container-with-most-water](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0011-container-with-most-water) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
+| [0643-maximum-average-subarray-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
