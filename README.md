@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0011-container-with-most-water) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0643-maximum-average-subarray-i) |
+| [1260-shift-2d-grid](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [1260-shift-2d-grid](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1260-shift-2d-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0643-maximum-average-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
