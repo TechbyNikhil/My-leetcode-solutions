@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [0283-move-zeroes](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0283-move-zeroes) |
 | [0011-container-with-most-water](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0011-container-with-most-water) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0001-two-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3312-sorted-gcd-pair-queries) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0392-is-subsequence) |
 | [0011-container-with-most-water](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0011-container-with-most-water) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Simulation
 |  |
 | ------- |
