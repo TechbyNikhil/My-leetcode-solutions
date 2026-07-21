@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0643-maximum-average-subarray-i) |
 | [1260-shift-2d-grid](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1260-shift-2d-grid) |
+| [1004-max-consecutive-ones-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0238-product-of-array-except-self) |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3312-sorted-gcd-pair-queries) |
+| [1004-max-consecutive-ones-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3312-sorted-gcd-pair-queries) |
+| [1004-max-consecutive-ones-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1004-max-consecutive-ones-iii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1004-max-consecutive-ones-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
