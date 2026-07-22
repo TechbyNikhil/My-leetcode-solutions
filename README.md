@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1260-shift-2d-grid) |
 | [1004-max-consecutive-ones-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1732-find-the-highest-altitude](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0238-product-of-array-except-self) |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3312-sorted-gcd-pair-queries) |
 | [1004-max-consecutive-ones-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
