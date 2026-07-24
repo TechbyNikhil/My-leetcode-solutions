@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2352-equal-row-and-column-pairs) |
+| [1207-unique-number-of-occurrences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2215-find-the-difference-of-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1657-determine-if-two-strings-are-close) |
 | [2352-equal-row-and-column-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2352-equal-row-and-column-pairs) |
+| [1207-unique-number-of-occurrences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
