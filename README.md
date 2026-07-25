@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1657-determine-if-two-strings-are-close) |
+| [2390-removing-stars-from-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [1260-shift-2d-grid](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
