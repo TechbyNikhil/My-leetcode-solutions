@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2352-equal-row-and-column-pairs) |
 | [1207-unique-number-of-occurrences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1207-unique-number-of-occurrences) |
+| [0724-find-pivot-index](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3312-sorted-gcd-pair-queries) |
 | [1004-max-consecutive-ones-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1732-find-the-highest-altitude) |
+| [0724-find-pivot-index](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
