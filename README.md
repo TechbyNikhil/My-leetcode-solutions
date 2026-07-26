@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2390-removing-stars-from-a-string) |
+| [0394-decode-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0394-decode-string) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2390-removing-stars-from-a-string) |
 | [0735-asteroid-collision](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0735-asteroid-collision) |
+| [0394-decode-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
