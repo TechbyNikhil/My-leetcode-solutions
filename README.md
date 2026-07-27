@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2390-removing-stars-from-a-string) |
 | [0394-decode-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0649-dota2-senate) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0334-increasing-triplet-subsequence) |
 | [0011-container-with-most-water](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [0649-dota2-senate](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0649-dota2-senate) |
 ## Sorting
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0933-number-of-recent-calls) |
+| [0649-dota2-senate](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0649-dota2-senate) |
 ## Data Stream
 |  |
 | ------- |
