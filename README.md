@@ -198,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
