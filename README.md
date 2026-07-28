@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0392-is-subsequence) |
 | [0011-container-with-most-water](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0011-container-with-most-water) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
