@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2352-equal-row-and-column-pairs) |
 | [1207-unique-number-of-occurrences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1207-unique-number-of-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [0649-dota2-senate](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0649-dota2-senate) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3312-sorted-gcd-pair-queries) |
 | [1657-determine-if-two-strings-are-close](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1657-determine-if-two-strings-are-close) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
