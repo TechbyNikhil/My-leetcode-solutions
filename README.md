@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0437-path-sum-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0437-path-sum-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -253,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0437-path-sum-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
