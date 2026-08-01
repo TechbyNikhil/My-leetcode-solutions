@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0735-asteroid-collision) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0486-predict-the-winner](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0628-maximum-product-of-three-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [0486-predict-the-winner](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [0486-predict-the-winner](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0394-decode-string) |
 | [0206-reverse-linked-list](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0486-predict-the-winner) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0437-path-sum-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
