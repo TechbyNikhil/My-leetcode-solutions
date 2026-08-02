@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0437-path-sum-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -246,11 +247,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0437-path-sum-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0437-path-sum-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0199-binary-tree-right-side-view) |
 ## Game Theory
 |  |
 | ------- |
