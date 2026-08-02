@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0735-asteroid-collision) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0486-predict-the-winner](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [0486-predict-the-winner](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [0486-predict-the-winner](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -272,4 +275,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
