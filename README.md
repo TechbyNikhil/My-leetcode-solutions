@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -271,9 +272,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0700-search-in-a-binary-search-tree) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0877-stone-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
