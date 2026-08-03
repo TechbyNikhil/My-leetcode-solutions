@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0700-search-in-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0700-search-in-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0450-delete-node-in-a-bst) |
 ## Game Theory
 |  |
 | ------- |
@@ -282,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0700-search-in-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
