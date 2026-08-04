@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
