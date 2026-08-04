@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0841-keys-and-rooms) |
+| [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0841-keys-and-rooms) |
+| [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -306,4 +308,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0841-keys-and-rooms) |
+| [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
