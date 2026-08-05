@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0841-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0841-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-keys-and-rooms](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0841-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
