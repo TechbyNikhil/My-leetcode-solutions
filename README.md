@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0841-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3310-remove-methods-from-project) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0841-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3310-remove-methods-from-project) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0841-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3310-remove-methods-from-project) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union-Find
 |  |
 | ------- |
