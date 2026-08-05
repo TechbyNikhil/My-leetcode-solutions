@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3731-find-missing-elements) |
+| [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
 ## Math
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3310-remove-methods-from-project) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3310-remove-methods-from-project) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
 ## Binary Tree
 |  |
 | ------- |
@@ -315,8 +319,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3310-remove-methods-from-project) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
+| [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
