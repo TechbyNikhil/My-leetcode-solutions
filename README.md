@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3731-find-missing-elements) |
 | [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [0994-rotting-oranges](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2352-equal-row-and-column-pairs) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [0994-rotting-oranges](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0994-rotting-oranges) |
 ## Enumeration
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [0994-rotting-oranges](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
