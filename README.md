@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Segment Tree
 |  |
 | ------- |
