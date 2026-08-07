@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3312-sorted-gcd-pair-queries) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0649-dota2-senate) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -363,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2336-smallest-number-in-infinite-set) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
