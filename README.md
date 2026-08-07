@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [0994-rotting-oranges](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0994-rotting-oranges) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3731-find-missing-elements) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0215-kth-largest-element-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0215-kth-largest-element-in-an-array) |
 ## Design
 |  |
 | ------- |
@@ -345,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
