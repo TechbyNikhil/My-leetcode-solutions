@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [0994-rotting-oranges](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0994-rotting-oranges) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0215-kth-largest-element-in-an-array) |
+| [2542-maximum-subsequence-score](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [2542-maximum-subsequence-score](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2542-maximum-subsequence-score) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3731-find-missing-elements) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0215-kth-largest-element-in-an-array) |
+| [2542-maximum-subsequence-score](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2542-maximum-subsequence-score) |
 ## Simulation
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2542-maximum-subsequence-score) |
 ## Design
 |  |
 | ------- |
