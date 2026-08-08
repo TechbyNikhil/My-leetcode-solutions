@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0994-rotting-oranges) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0215-kth-largest-element-in-an-array) |
 | [2542-maximum-subsequence-score](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2542-maximum-subsequence-score) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2390-removing-stars-from-a-string) |
 | [0735-asteroid-collision](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0735-asteroid-collision) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2336-smallest-number-in-infinite-set) |
 | [2542-maximum-subsequence-score](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2542-maximum-subsequence-score) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Design
 |  |
 | ------- |
