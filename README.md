@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1140-stone-game-ii) |
 | [0162-find-peak-element](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0162-find-peak-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [0216-combination-sum-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0216-combination-sum-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0216-combination-sum-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0216-combination-sum-iii) |
 ## Interactive
 |  |
 | ------- |
