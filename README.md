@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [1140-stone-game-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1140-stone-game-ii) |
 | [0162-find-peak-element](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0162-find-peak-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3731-find-missing-elements) |
 | [2336-smallest-number-in-infinite-set](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2336-smallest-number-in-infinite-set) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0215-kth-largest-element-in-an-array) |
 | [2542-maximum-subsequence-score](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2542-maximum-subsequence-score) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Simulation
 |  |
 | ------- |
