@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [1140-stone-game-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1140-stone-game-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [1140-stone-game-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1140-stone-game-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1137-n-th-tribonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
