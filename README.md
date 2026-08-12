@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [0216-combination-sum-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0216-combination-sum-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [0746-min-cost-climbing-stairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [1140-stone-game-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1140-stone-game-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0746-min-cost-climbing-stairs) |
 ## Number Theory
 |  |
 | ------- |
