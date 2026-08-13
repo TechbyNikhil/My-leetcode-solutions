@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0216-combination-sum-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [0746-min-cost-climbing-stairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0746-min-cost-climbing-stairs) |
+| [0198-house-robber](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1140-stone-game-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1137-n-th-tribonacci-number) |
+| [0198-house-robber](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0198-house-robber) |
 ## Number Theory
 |  |
 | ------- |
