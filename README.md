@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [1143-longest-common-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1137-n-th-tribonacci-number) |
 | [0198-house-robber](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0198-house-robber) |
 | [0790-domino-and-tromino-tiling](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0790-domino-and-tromino-tiling) |
+| [1143-longest-common-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1143-longest-common-subsequence) |
 ## Number Theory
 |  |
 | ------- |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1137-n-th-tribonacci-number) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
