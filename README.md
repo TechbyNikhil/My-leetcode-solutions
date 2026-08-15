@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [1143-longest-common-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1143-longest-common-subsequence) |
+| [0072-edit-distance](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0072-edit-distance) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0790-domino-and-tromino-tiling) |
 | [1143-longest-common-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1143-longest-common-subsequence) |
 | [0062-unique-paths](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0072-edit-distance) |
 ## Number Theory
 |  |
 | ------- |
