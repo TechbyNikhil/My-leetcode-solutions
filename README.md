@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1143-longest-common-subsequence) |
 | [0062-unique-paths](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0072-edit-distance) |
+| [0338-counting-bits](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0338-counting-bits) |
 ## Number Theory
 |  |
 | ------- |
@@ -446,4 +447,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [0338-counting-bits](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
