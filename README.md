@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0746-min-cost-climbing-stairs) |
 | [0198-house-robber](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0198-house-robber) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -439,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1143-longest-common-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
