@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [0338-counting-bits](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0338-counting-bits) |
 | [0136-single-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0136-single-number) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Nim Game
 |  |
 | ------- |
