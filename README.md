@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0198-house-robber) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [2029-stone-game-ix](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1140-stone-game-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1137-n-th-tribonacci-number) |
 | [0062-unique-paths](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0062-unique-paths) |
+| [2029-stone-game-ix](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [2542-maximum-subsequence-score](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2542-maximum-subsequence-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [2029-stone-game-ix](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2029-stone-game-ix) |
 ## Sorting
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1657-determine-if-two-strings-are-close) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [2029-stone-game-ix](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2029-stone-game-ix) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -382,11 +387,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -448,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [0338-counting-bits](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0338-counting-bits) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
