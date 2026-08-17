@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2029-stone-game-ix) |
 | [0136-single-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0136-single-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1563-stone-game-v](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1563-stone-game-v) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1137-n-th-tribonacci-number) |
 | [0062-unique-paths](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0062-unique-paths) |
 | [2029-stone-game-ix](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2029-stone-game-ix) |
+| [1563-stone-game-v](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1563-stone-game-v) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0338-counting-bits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1563-stone-game-v](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1563-stone-game-v) |
 ## Number Theory
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2029-stone-game-ix) |
+| [1563-stone-game-v](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1563-stone-game-v) |
 ## Binary Search Tree
 |  |
 | ------- |
