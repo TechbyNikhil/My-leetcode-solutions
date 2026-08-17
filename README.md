@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [0208-implement-trie-prefix-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0208-implement-trie-prefix-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [1143-longest-common-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1143-longest-common-subsequence) |
 | [0072-edit-distance](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0072-edit-distance) |
+| [0208-implement-trie-prefix-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0208-implement-trie-prefix-tree) |
 ## Math
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2336-smallest-number-in-infinite-set) |
+| [0208-implement-trie-prefix-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0208-implement-trie-prefix-tree) |
 ## Queue
 |  |
 | ------- |
@@ -469,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2029-stone-game-ix) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
