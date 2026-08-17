@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0136-single-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1563-stone-game-v](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1563-stone-game-v) |
+| [1268-search-suggestions-system](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1268-search-suggestions-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1143-longest-common-subsequence) |
 | [0072-edit-distance](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1268-search-suggestions-system) |
 ## Math
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2542-maximum-subsequence-score) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [1268-search-suggestions-system](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1268-search-suggestions-system) |
 ## Simulation
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0374-guess-number-higher-or-lower) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [0162-find-peak-element](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0162-find-peak-element) |
+| [1268-search-suggestions-system](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1268-search-suggestions-system) |
 ## Combinatorics
 |  |
 | ------- |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2336-smallest-number-in-infinite-set) |
 | [2542-maximum-subsequence-score](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2542-maximum-subsequence-score) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2462-total-cost-to-hire-k-workers) |
+| [1268-search-suggestions-system](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1268-search-suggestions-system) |
 ## Design
 |  |
 | ------- |
@@ -476,4 +481,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
