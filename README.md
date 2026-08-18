@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1563-stone-game-v) |
 | [1268-search-suggestions-system](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1268-search-suggestions-system) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [0435-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0338-counting-bits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1563-stone-game-v](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1563-stone-game-v) |
+| [0435-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0435-non-overlapping-intervals) |
 ## Number Theory
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [2029-stone-game-ix](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2029-stone-game-ix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0435-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [1268-search-suggestions-system](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1268-search-suggestions-system) |
+| [0435-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0435-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
