@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1563-stone-game-v](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1563-stone-game-v) |
 | [1268-search-suggestions-system](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1268-search-suggestions-system) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [0208-implement-trie-prefix-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0208-implement-trie-prefix-tree) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
