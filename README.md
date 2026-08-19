@@ -271,11 +271,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0394-decode-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [0739-daily-temperatures](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [0739-daily-temperatures](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2336-smallest-number-in-infinite-set) |
 | [0208-implement-trie-prefix-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0208-implement-trie-prefix-tree) |
+| [0901-online-stock-span](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0933-number-of-recent-calls) |
+| [0901-online-stock-span](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
