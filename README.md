@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [0435-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1386-cinema-seat-allocation](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [0208-implement-trie-prefix-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0208-implement-trie-prefix-tree) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [1386-cinema-seat-allocation](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1386-cinema-seat-allocation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0435-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1386-cinema-seat-allocation](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1386-cinema-seat-allocation) |
 ## Sorting
 |  |
 | ------- |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0338-counting-bits) |
 | [0136-single-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0136-single-number) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1386-cinema-seat-allocation](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1386-cinema-seat-allocation) |
 ## Nim Game
 |  |
 | ------- |
