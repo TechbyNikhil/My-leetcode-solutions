@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1386-cinema-seat-allocation) |
+| [0739-daily-temperatures](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -269,10 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0735-asteroid-collision) |
 | [0394-decode-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0394-decode-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [0739-daily-temperatures](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [0739-daily-temperatures](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
