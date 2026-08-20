@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1386-cinema-seat-allocation) |
 | [0739-daily-temperatures](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0739-daily-temperatures) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2390-removing-stars-from-a-string) |
 | [0735-asteroid-collision](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0735-asteroid-collision) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
