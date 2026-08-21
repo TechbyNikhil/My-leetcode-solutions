@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1386-cinema-seat-allocation) |
 | [0739-daily-temperatures](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0739-daily-temperatures) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0062-unique-paths) |
 | [2029-stone-game-ix](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2029-stone-game-ix) |
 | [1563-stone-game-v](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1563-stone-game-v) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3312-sorted-gcd-pair-queries) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
 |  |
 | ------- |
@@ -250,12 +253,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [0162-find-peak-element](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0162-find-peak-element) |
 | [1268-search-suggestions-system](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1268-search-suggestions-system) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [0062-unique-paths](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Counting
 |  |
 | ------- |
@@ -495,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0136-single-number) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Nim Game
 |  |
 | ------- |
