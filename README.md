@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1268-search-suggestions-system) |
 | [1927-sum-game](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Matrix
 |  |
 | ------- |
