@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Segment Tree
 |  |
 | ------- |
