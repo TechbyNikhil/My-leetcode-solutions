@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [1872-stone-game-viii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1872-stone-game-viii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3718-smallest-missing-multiple-of-k) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1268-search-suggestions-system) |
 | [0435-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0547-number-of-provinces) |
 | [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Shortest Path
 |  |
 | ------- |
