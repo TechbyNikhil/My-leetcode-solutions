@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3718-smallest-missing-multiple-of-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1386-cinema-seat-allocation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2352-equal-row-and-column-pairs) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [0994-rotting-oranges](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0994-rotting-oranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
 | ------- |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [0994-rotting-oranges](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0994-rotting-oranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Nim Game
 |  |
 | ------- |
