@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [1927-sum-game](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1927-sum-game) |
 | [1872-stone-game-viii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1872-stone-game-viii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
