@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0700-search-in-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0450-delete-node-in-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3310-remove-methods-from-project) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [0399-evaluate-division](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0399-evaluate-division) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0700-search-in-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0450-delete-node-in-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Game Theory
 |  |
 | ------- |
