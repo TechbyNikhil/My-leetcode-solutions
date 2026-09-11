@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3904-smallest-stable-index-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3483-unique-3-digit-even-numbers) |
 ## Segment Tree
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0394-decode-string) |
 | [0206-reverse-linked-list](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
