@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3904-smallest-stable-index-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3483-unique-3-digit-even-numbers) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1872-stone-game-viii) |
 | [0115-distinct-subsequences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Number Theory
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0162-find-peak-element) |
 | [1268-search-suggestions-system](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1268-search-suggestions-system) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
 |  |
 | ------- |
