@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3904-smallest-stable-index-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3483-unique-3-digit-even-numbers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [0835-image-overlap](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0835-image-overlap) |
 ## Hash Table
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [0994-rotting-oranges](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [0835-image-overlap](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0835-image-overlap) |
 ## Enumeration
 |  |
 | ------- |
