@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [0115-distinct-subsequences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0940-distinct-subsequences-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Number Theory
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
