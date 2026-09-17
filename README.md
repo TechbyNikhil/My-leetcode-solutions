@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3483-unique-3-digit-even-numbers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [0835-image-overlap](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3483-unique-3-digit-even-numbers) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1268-search-suggestions-system) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Matrix
 |  |
 | ------- |
