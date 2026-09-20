@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0735-asteroid-collision) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
