@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3525-find-x-value-of-array-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3483-unique-3-digit-even-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3904-smallest-stable-index-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Combinatorics
 |  |
 | ------- |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
 | ------- |
