@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1096-brace-expansion-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1096-brace-expansion-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3498-reverse-degree-of-a-string) |
+| [1096-brace-expansion-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1096-brace-expansion-ii) |
 ## Math
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1096-brace-expansion-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1096-brace-expansion-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [0739-daily-temperatures](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0901-online-stock-span) |
+| [1096-brace-expansion-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [0994-rotting-oranges](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [1096-brace-expansion-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -575,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1096-brace-expansion-ii) |
 ## Interactive
 |  |
 | ------- |
