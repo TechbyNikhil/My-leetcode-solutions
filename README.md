@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3498-reverse-degree-of-a-string) |
 | [1096-brace-expansion-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -620,4 +622,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
