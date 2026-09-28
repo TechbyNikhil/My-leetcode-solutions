@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -626,4 +628,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
