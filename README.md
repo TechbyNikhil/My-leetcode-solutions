@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3524-find-x-value-of-array-i) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Number Theory
 |  |
 | ------- |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [0835-image-overlap](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0835-image-overlap) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Enumeration
 |  |
 | ------- |
@@ -629,4 +632,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
