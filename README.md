@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3524-find-x-value-of-array-i) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [0022-generate-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0022-generate-parentheses) |
 ## Number Theory
 |  |
 | ------- |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0216-combination-sum-iii) |
 | [1096-brace-expansion-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1096-brace-expansion-ii) |
+| [0022-generate-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0022-generate-parentheses) |
 ## Interactive
 |  |
 | ------- |
@@ -639,4 +642,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
