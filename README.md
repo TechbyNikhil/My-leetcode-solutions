@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3525-find-x-value-of-array-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3525-find-x-value-of-array-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -684,4 +687,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
