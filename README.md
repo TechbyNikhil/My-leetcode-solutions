@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3886-sum-of-sortable-integers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/3886-sum-of-sortable-integers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TechbyNikhil/30-days-of-javascript/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Combinatorics
 |  |
 | ------- |
